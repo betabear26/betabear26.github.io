@@ -29,7 +29,7 @@ github_username:  betabear26
 
 # Build settings
 #theme: minima
-theme: texture
+remote_theme: texture
 plugins:
   - jekyll-feed
 
