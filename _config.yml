@@ -28,9 +28,22 @@ twitter_username:
 github_username:  betabear26
 
 # Build settings
-theme: minima
+#theme: minima
+theme: texture
 plugins:
   - jekyll-feed
+
+texture:
+  title: Sandeep Suman
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  style: black
+  showPicker: false
+
+  social_links:
+    #twitter: thelehhman
+    github:  betabear26
+    linkedIn: in/sandeep-suman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
