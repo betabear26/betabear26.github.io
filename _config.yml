@@ -13,9 +13,7 @@ title: Sandeep Suman                          # the main title
 tagline: Mobile dev based in bangalore.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Personal website for Sandeep.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: "https://sandeepsuman.dev"
@@ -31,14 +29,14 @@ github:
 #  username: twitter_username            # change to your twitter username
 
 social:
-  name: Sandeep Suman                  # it will shows as the copyright owner in Footer
+  name: Sandeep Suman                  # it will show as the copyright owner in Footer
   email: sandeepjmp@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/betabear26       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sandeep-suman
 
 google_site_verification: ewDNtQ681AX_1p5DOwtfbGl1a7DwaQ-C7ydD_0S5ACw # change to your verification string
 
