@@ -8,6 +8,12 @@
 -
   name: Home
   icon: "fas fa-home"
+
+-
+  name: "Resume"
+  icon: "fas fa-file"
+  path: external
+  url: https://docs.google.com/document/d/1n_p47fUZs03Q4ydNTQS4DEc7lsLZdcEqIIsAL3_a_u8
 -
   name: Categories
   icon: "fas fa-stream"
